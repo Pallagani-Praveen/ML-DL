@@ -1,0 +1,25 @@
+Normal Linear Regression 
+==================================
+* Regression type of problem statement
+* 𝑓(𝑥) = 𝑤1.𝑥1 + 𝑤2.𝑥2 + … + 𝑤𝐷.𝑥𝐷 + 𝑏 = 𝑤 . 𝑥 + 𝑏
+
+
+• Formalization of statistical learning of classifiers
+• Ways to train linear classifiers
+1. Linear regression
+   * 𝑓(𝑥) is a linear function or linear combination of (W,X) 
+   * 𝑓(𝑥) = sgn(𝑤1.𝑥1 + 𝑤2.𝑥2 + … + 𝑤𝐷.𝑥𝐷 + 𝑏) = sgn(𝑤 . 𝑥 + 𝑏)
+2. Perceptron training algorithm
+3. Logistic regression
+4. Support vector machines
+• Gradient descent and stochastic gradient descent
+
+
+
+
+Linear Classifier or Linear Regression for Classification
+==============================================================
+* classification type of problem statement
+
+* sgn means sign if '+' ==> class(+1) and if '-' ==> class(-1)
+* binary classification
